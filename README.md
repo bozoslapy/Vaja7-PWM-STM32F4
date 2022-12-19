@@ -38,6 +38,6 @@ KOMENTAR NA DELOVANJE -->
 ![Slika na osciloskopu](https://raw.githubusercontent.com/bozoslapy/Vaja7-PWM-STM32F4/main/Slika%20osciloskopa.PNG)
 ![Tim1_del1]()
 ![Tim1_del2 ]()
-![Video 1]()
+![Video 1](https://github.com/bozoslapy/Vaja7-PWM-STM32F4/blob/main/IMG_0445.MOV)
 ![Video 2]()
 ![Video 3]()
