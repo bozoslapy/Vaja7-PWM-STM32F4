@@ -1,7 +1,7 @@
 # Vaja7-PWM-STM32F4
 
 KOMENTAR NA DELOVANJE --> 
-
+S kodo nisva imela nobenih težav, edino kar sva potrebovala poiskati, je bilo kje spreminjaš dolžino periode. Vse ostalo je delovalo brezhibno. Imela sva tudi manjši problem na začetku, ki sva ga odpravila v minuti, saj sva zamenjala veliko začetnico v ukazu "uint16_t dutyCycle".
 
 
 
@@ -36,7 +36,6 @@ Zapišite kaj počnejo ukazi v 1.,2. in 3. vrstici (v user code begin 3):
 --> 1. Pošlje signal na pin.
 --> 2. Poveča dutyCycle za 10.
 --> 3. Previri dutyCycle nad 90 in ga spremeni za 10.
-
 
 
 --> Pinout mikroprocesorja
