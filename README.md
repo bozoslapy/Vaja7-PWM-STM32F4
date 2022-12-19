@@ -2,10 +2,6 @@
 
 ODGOVORI NA VPRAŠANJA -->
 
-Postopek inicializacije periferije.
-
-a) Zaženite STM32CubeIDE in ustvarite nov STM32 projekt (pod zavihkom information Center). V zavihku Board selector s pomočjo filtrov Vendor, Type in MCU/MPU Series izberite ustrezno razvojno ploščo (v našem primeru STM32F401C-Discovery), kliknite Next, projekt poimenujte vaja7_PWM in kliknite Finish (na možnosti opcije za prenastavitev periferije izberite Yes, izbrana naj bo tudi opcija perspektive za STM32CubeMX).
-
 b) V levem Pinout oknu razširite nabor možnosti za Timers ter za časovnik TIM1. Clock Source nastavite kot Internal Clock. Prvi kanal aktivirajte kot PWM Generation CH1. Kateri pin ste omogočili? __________. Kaj se izpiše poleg pina? ___________.
 
 c) V Clock Configuration spremenimo takt časovnika APB1 Timer Clocks (MHz) na 16 MHz.
