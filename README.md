@@ -39,5 +39,5 @@ KOMENTAR NA DELOVANJE -->
 ![Tim1_del1]()
 ![Tim1_del2 ]()
 ![Video 1](https://github.com/bozoslapy/Vaja7-PWM-STM32F4/blob/main/IMG_0445.MOV)
-![Video 2]()
+![Video 2](https://github.com/bozoslapy/Vaja7-PWM-STM32F4/blob/main/IMG-0446.MOV)
 ![Video 3]()
