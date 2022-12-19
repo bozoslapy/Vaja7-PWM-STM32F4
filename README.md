@@ -35,7 +35,7 @@ KOMENTAR NA DELOVANJE -->
 
 ![Pinout mikroprocesorja](https://raw.githubusercontent.com/bozoslapy/Vaja7-PWM-STM32F4/main/7%20pinout.PNG)
 ![Slika vezave](https://raw.githubusercontent.com/bozoslapy/Vaja7-PWM-STM32F4/main/IMG_0443.jpeg)
-![Slika na osciloskopu]()
+![Slika na osciloskopu](https://raw.githubusercontent.com/bozoslapy/Vaja7-PWM-STM32F4/main/Slika%20osciloskopa.PNG)
 ![Tim1_del1]()
 ![Tim1_del2 ]()
 ![Video 1]()
