@@ -33,7 +33,7 @@ Zapišite kaj počnejo ukazi v 1.,2. in 3. vrstici (v user code begin 3):
 
 KOMENTAR NA DELOVANJE --> 
 
-![Pinout mikroprocesorja]()
+![Pinout mikroprocesorja](https://raw.githubusercontent.com/bozoslapy/Vaja7-PWM-STM32F4/main/7%20pinout.PNG)
 ![Slika vezave]()
 ![Slika na osciloskopu]()
 ![Tim1_del1]()
